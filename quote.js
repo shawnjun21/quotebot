@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-const token = "NDA0MTE2NzczMTE4NDEwNzc0.DURKqg.YNqddfxrxqtYXB6bBGbNtfUbD-4";
+const token = "ToKen";
 
 const probability = 3;
 
