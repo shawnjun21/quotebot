@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-const probability = 3;
+const probability = 30;
 
 bot.on("message", message =>
 {
