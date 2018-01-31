@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "quote.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+    "start": "node quote.js"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
